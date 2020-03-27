@@ -1,0 +1,256 @@
+{
+  "hotels": [
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 87,
+            "hotelName": "ベルビューガーデンホテル関西空港",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/if/uPw0Q/?f_no=87",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/if/ZwI4Q/?f_no=87&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/if/G02wZ/?noTomariHotel=87",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=87",
+            "hotelKanaName": "べるびゅーがーでんほてるかんさいくうこう",
+            "hotelSpecial": "★関空⇔ホテル無料シャトルバス約１５分★泉佐野駅より徒歩7分★駐車１週間無料★お子様添い寝無料★",
+            "hotelMinCharge": 4400,
+            "latitude": 123855.32,
+            "longitude": 487162.94,
+            "postalCode": "598-0006",
+            "address1": "大阪府",
+            "address2": "泉佐野市市場西3-3-34",
+            "telephoneNo": "072-469-1112",
+            "faxNo": "072-469-5660",
+            "access": "関西空港への無料定期バス約15分　関空南バスのりば「S12」番より　南海で関空より約9分　「泉佐野」駅より徒歩約7分",
+            "parkingInformation": "有り80台　無料　・普通車のみ　トラック不可(軽トラックも含む）★旅行期間中最大１週間迄無料",
+            "nearestStation": "泉佐野",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/87/87.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/87.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/87/87_twn.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/87.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/87/87map.gif",
+            "reviewCount": 2372,
+            "reviewAverage": 4.12,
+            "userReview": "関空発の朝の飛行機に乗るため、前日に空港近くに泊まろうと思い、3年ほど前に一度泊まってなかなか良かったこちらのホテルを選びました。（前回は関空着の便が遅れて帰宅できなかったため利用）部屋は…　2020-02-23 15:41:19投稿 <a href="http://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=87" class="3click">つづきはこちら</a>"
+          }
+        },
+        {
+          "hotelRatingInfo": {
+            "serviceAverage": 3.91,
+            "locationAverage": 4.02,
+            "roomAverage": 4.05,
+            "equipmentAverage": 3.93,
+            "bathAverage": 3.89,
+            "mealAverage": 0
+          }
+        },
+        {
+          "hotelDetailInfo": {
+            "reserveTelephoneNo": "050-2017-8989",
+            "middleClassCode": "osaka",
+            "smallClassCode": "nanbu",
+            "areaName": "堺・岸和田・関空・泉佐野",
+            "hotelClassCode": "HOTEL",
+            "checkinTime": "14:00",
+            "checkoutTime": "11:00",
+            "lastCheckinTime": "24:00"
+          }
+        },
+        {
+          "hotelFacilitiesInfo": {
+            "hotelRoomNum": 186,
+            "roomFacilities": [
+              {
+                "item": "テレビ"
+              },
+              {
+                "item": "電話"
+              },
+              {
+                "item": "インターネット接続(LAN形式)"
+              },
+              {
+                "item": "インターネット接続(無線LAN形式)"
+              },
+              {
+                "item": "湯沸かしポット"
+              },
+              {
+                "item": "お茶セット"
+              },
+              {
+                "item": "冷蔵庫"
+              },
+              {
+                "item": "ドライヤー"
+              },
+              {
+                "item": "ズボンプレッサー(貸出)"
+              },
+              {
+                "item": "電気スタンド(貸出)"
+              },
+              {
+                "item": "加湿器(貸出)"
+              },
+              {
+                "item": "洗浄機付トイレ"
+              },
+              {
+                "item": "ベビーベッド"
+              },
+              {
+                "item": "石鹸（固形）"
+              },
+              {
+                "item": "ボディーソープ"
+              },
+              {
+                "item": "シャンプー"
+              },
+              {
+                "item": "リンス"
+              },
+              {
+                "item": "ハミガキセット"
+              },
+              {
+                "item": "カミソリ"
+              },
+              {
+                "item": "シャワーキャップ"
+              },
+              {
+                "item": "くし"
+              },
+              {
+                "item": "タオル"
+              },
+              {
+                "item": "バスタオル"
+              },
+              {
+                "item": "ナイトウェア"
+              },
+              {
+                "item": "スリッパ"
+              }
+            ],
+            "hotelFacilities": [
+              {
+                "item": "会議室"
+              },
+              {
+                "item": "レストラン(創作レストラン)"
+              },
+              {
+                "item": "レストラン"
+              },
+              {
+                "item": "送迎バス"
+              },
+              {
+                "item": "クリーニングサービス"
+              },
+              {
+                "item": "宴会場"
+              },
+              {
+                "item": "ファックス送信可"
+              },
+              {
+                "item": "会議室"
+              },
+              {
+                "item": "禁煙ルーム"
+              },
+              {
+                "item": "ルームサービス"
+              },
+              {
+                "item": "マッサージサービス"
+              },
+              {
+                "item": "モーニングコール"
+              },
+              {
+                "item": "宅配便"
+              },
+              {
+                "item": "自動販売機"
+              }
+            ],
+            "aboutMealPlace": [
+              {
+                "breakfastPlace": "レストラン(バイキング)"
+              },
+              {
+                "dinnerPlace": "レストラン"
+              }
+            ],
+            "aboutBath": [],
+            "aboutLeisure": "海水浴,釣り,海釣り,ヨット,ウォータースポーツ,ゴルフ",
+            "handicappedFacilities": [
+              {
+                "item": "車椅子可"
+              },
+              {
+                "item": "貸出用車椅子"
+              },
+              {
+                "item": "バリアフリー用トイレ"
+              },
+              {
+                "item": "バリアフリールーム"
+              }
+            ],
+            "linguisticLevel": "英語：日常的な内容は問題のないスタッフが大半である。"
+          }
+        },
+        {
+          "hotelPolicyInfo": {
+            "note": "ホテル発→関西空港の無料シャトルバス　午前　5：30　6：30　7：30　8：30　9：30　11：00で運行,関西空港発→ホテルの無料シャトルバス　午前10：05　　午後　18：30　19：30　20：30　21：30　22：30で運行　　　,22:30以降は公共交通機関（南海電車・南海バス）をご利用下さい,関西空港　シャトルバス乗り場　第1ターミナル1階　南団体バス乗り場　Ｓ12,今般のコロナウィルスの影響によりプラン内容に変更が生じる場合があります。",
+            "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+            "availableCreditCard": [
+              {
+                "card": "VISA"
+              },
+              {
+                "card": "JCB"
+              },
+              {
+                "card": "American Express"
+              },
+              {
+                "card": "Diner's Club"
+              },
+              {
+                "card": "DC"
+              },
+              {
+                "card": "Master Card"
+              },
+              {
+                "card": "Discover"
+              },
+              {
+                "card": "デビットカード"
+              },
+              {
+                "card": "利用可"
+              }
+            ],
+            "aboutCreditCardNote": "銀聯（China Union Pay）　　支付宝（ALIPAY）　　微信支付（WeChat Pay)",
+            "aboutPointAdd": null,
+            "aboutMileageAdd": null
+          }
+        },
+        {
+          "hotelOtherInfo": {
+            "privilege": "ご旅行期間中、最大1週間駐車場無料　,",
+            "otherInformation": "ホテル発シャトルバス　　5：30、6：30、7：30、8：30、9：30、11：00、18：00,関西空港発　10：05､18：30、19：30、20：30、21：30、22：30,22：30以降は公共交通機関（南海電車・南海バス）がございますので、ご利用下さい。"
+          }
+        }
+      ]
+    }
+  ]
+}
